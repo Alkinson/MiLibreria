@@ -1,0 +1,12 @@
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\bin\Debug\net10.0\MiLibreria.deps.json
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\bin\Debug\net10.0\MiLibreria.dll
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\bin\Debug\net10.0\MiLibreria.pdb
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\MiLibreria.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\MiLibreria.AssemblyInfoInputs.cache
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\MiLibreria.AssemblyInfo.cs
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\MiLibreria.csproj.CoreCompileInputs.cache
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\MiLibreria.sourcelink.json
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\MiLibreria.dll
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\refint\MiLibreria.dll
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\MiLibreria.pdb
+E:\Fuentes\Tutorial\SubModules\MiAplicacion\libs\MiLibreria\obj\Debug\net10.0\ref\MiLibreria.dll
