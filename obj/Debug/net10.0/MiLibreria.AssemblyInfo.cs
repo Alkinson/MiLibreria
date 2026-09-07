@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiLibreria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+79bf7fe8ed0f4648f94c616cc6b2eccf6b0b4759")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+77a0a6e1579a0fbb11e3864ded3e092650c209aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiLibreria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiLibreria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
