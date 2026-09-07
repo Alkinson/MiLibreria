@@ -1,6 +1,6 @@
 ﻿namespace MiLibreria;
 
-public class Class1
+public static class Calculadora
 {
-
+    public static int Sumar(int a, int b) => a + b;
 }
